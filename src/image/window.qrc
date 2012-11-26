@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>16X16/copy.png</file>
+        <file>16X16/cut.png</file>
+        <file>16X16/new.png</file>
+        <file>16X16/open.png</file>
+        <file>16X16/paste.png</file>
+        <file>16X16/save.png</file>
+        <file>16X16/undo.png</file>
+        <file>16X16/redo.png</file>
+        <file>16X16/find.png</file>
+        <file>16X16/print.png</file>
+        <file>16X16/recent.png</file>
+        <file>16X16/close.png</file>
+        <file>16X16/selectall.png</file>
+        <file>16X16/replace.png</file>
+        <file>16X16/next.png</file>
+        <file>16X16/previous.png</file>
+        <file>16X16/about.png</file>
+        <file>16X16/clear.png</file>
+        <file>16X16/aboutQt.png</file>
+        <file>16X16/zoomin.png</file>
+        <file>16X16/zoomout.png</file>
+        <file>16X16/exit.png</file>
+        <file>16X16/saveas.png</file>
+	<file>24X24/asave.png</file>
+        <file>24X24/copy.png</file>
+        <file>24X24/cut.png</file>
+        <file>24X24/new.png</file>
+        <file>24X24/open.png</file>
+        <file>24X24/paste.png</file>
+        <file>24X24/save.png</file>
+        <file>24X24/undo.png</file>
+        <file>24X24/redo.png</file>
+        <file>24X24/find.png</file>
+        <file>24X24/recent.png</file>
+        <file>24X24/replace.png</file>
+    </qresource>
+</RCC>
